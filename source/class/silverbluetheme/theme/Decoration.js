@@ -1347,7 +1347,15 @@ qx.Theme.define("silverbluetheme.theme.Decoration",
         innerWidthTop: 1,
         innerColorTop: "border-statusbar-top-inner"
       }
+    },
+
+  "theme-demo-title-separator":
+    {
+      include: "slider-knob-hovered",
+
+      style: {
+        backgroundRepeat: "scale"
+      }
     }
-    
   }
 });
