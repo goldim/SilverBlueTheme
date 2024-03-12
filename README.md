@@ -48,6 +48,9 @@ Using Qooxdoos [WidgetBrowser](http://qooxdoo.org/qxl.packagebrowser/qxl.package
 
 TBD
 
+## TODO
+
+ - Fix a media player knob
 
 <!-- LICENSE -->
 ## License
